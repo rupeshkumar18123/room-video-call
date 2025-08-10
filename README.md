@@ -146,11 +146,7 @@ Just fork, clone, create a branch and submit your feature!
 
 ---
 
-## 📄 License
 
-MIT License © 2025 [Rupesh Kumar](https://github.com/rupeshkumar18123)
-
----
 
 ## 💬 Contact
 
