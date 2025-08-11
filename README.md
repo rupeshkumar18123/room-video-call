@@ -35,7 +35,7 @@ Welcome to the **Room Video Call** platform — a lightweight, flexible video-ca
 
 - Node.js installed
 - Devices connected to the same Wi-Fi network
-- Your IPv4 address (e.g., `192.168.1.3`)
+- Your IPv4 address (e.g., `192.168.X.X`)
 
 ---
 
